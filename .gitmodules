@@ -1,0 +1,3 @@
+[submodule "3dworld"]
+	path = 3dworld
+	url = git@github.com:chrislyz/3dworld.git
